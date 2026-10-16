@@ -1,12 +1,12 @@
 how 2 engine
 
 1. Go to blue room, set "advanced power storage unit" OUTPUT to 10
-2. Place missing cables (8)
-3. Leave the blue room, run to the "Local Gas Control Console"
-4. Turn on
-5. Open local stationary tanks
-6. Wait a bit, turn on igniters
-7. Open gas floodgates
+2. Leave the blue room, run to the "Local Gas Control Console"
+3. Turn on
+4. Open local stationary tanks
+5. Wait a bit, turn on igniters
+6. Open gas floodgates
+7. You should probably close the local gas tanks, but you also can leave them open anyway.
 
 # QnA
 
