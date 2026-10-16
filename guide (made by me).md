@@ -40,7 +40,7 @@ Press Shift, your muscle memory is betraying you. It can be used to examine, but
 
 ### What's Euphoria?
 ![](euphoria.png)<br>
-Euphoria (the thing with a eye on a hand) is your mood. The smiley face is actually your libido. Euphoria is needed to do magic, stay alive, and to use some weapons. Gain euphoria by doing drugs, lose it by staying sober, getting injured, getting a hangover(?). A lack of euphoria may make you depressed, which can have lethal consequences.
+Euphoria (the thing with a eye on a hand) is your mood. The smiley face is actually your libido. Euphoria is needed to do magic, stay alive, and to use some weapons. Gain euphoria by doing drugs, wanking your cock or having sex, lose it by staying sober, getting injured, getting a hangover(?). A lack of euphoria may make you depressed, which can have lethal consequences.
 
 ### There's ghosts chasing me :(
 Find a Petrine Cross (upside down cross) and click the ghosts with it to banish them. Alternatively, call the purificator.
