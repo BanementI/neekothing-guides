@@ -97,6 +97,7 @@ Found a screenshot that uses old tiles, that shows most of the station. The colo
 - Green = Bridge
 - Yellow = Evacuation shuttle
 - That white box in the middle = Where you teleport from the landing site
+- Box on the bottom right = Operator's satellite
 
 ![](rough-map.png)
 
