@@ -88,6 +88,15 @@ Now is your time to discover them.
 - Purificator = Ghostbuster
 - Prosecutor = Head of security
 
+# Rough map
+Found a screenshot that uses old tiles, that shows most of the station. The colours should be pretty obvious but in case you're slow:
+- Orange = Engineering
+- Blue = Medical
+- Purple = Research
+- Red = Security
+- Green = Bridge
+[](rough-map.png)
+
 # Sigils
 
 ## Pentacle
