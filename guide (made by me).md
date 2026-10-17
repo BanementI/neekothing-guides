@@ -95,7 +95,10 @@ Found a screenshot that uses old tiles, that shows most of the station. The colo
 - Purple = Research
 - Red = Security
 - Green = Bridge
-[](rough-map.png)
+- Yellow = Evacuation shuttle
+- That white box in the middle = Where you teleport from the landing site
+
+![](rough-map.png)
 
 # Sigils
 
