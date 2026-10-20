@@ -11,6 +11,9 @@ NOTE: He forgot to open the gas flood gates to actually generate power, so do th
 
 - [Buying drugs](https://www.youtube.com/watch?v=yoC0ESKP5Vg)
 
+## Decompilation
+- [AI Decompilation (not by me)](https://github.com/CryoSpacewalk/neekothing)
+
 ## Downloads
 - [Latest](https://tizzybox.femboy.observer/share/SS13/neekothing.rar?raw)
 - [Github Mirror](https://github.com/13spacemen/neekothing/releases/tag/03%2F16%2F2019)
