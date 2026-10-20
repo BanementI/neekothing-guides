@@ -13,8 +13,8 @@ NOTE: He forgot to open the gas flood gates to actually generate power, so do th
 
 ## Decompilation
 - [AI Decompilation (not by me + censored)](https://github.com/CryoSpacewalk/neekothing)
-- [Mirror (uncensored + 516 version)[https://tizzybox.femboy.observer/share/SS13/neekothing-main.tar.gz?raw]
-- [Mirror (uncensored + 512 version)[https://tizzybox.femboy.observer/share/SS13/neekothing-bitperfect.tar.gz]
+- [Mirror (uncensored + 516 version)](https://tizzybox.femboy.observer/share/SS13/neekothing-main.tar.gz?raw)
+- [Mirror (uncensored + 512 version)](https://tizzybox.femboy.observer/share/SS13/neekothing-bitperfect.tar.gz)
 
 ## Downloads
 - [Latest (2019)](https://tizzybox.femboy.observer/share/SS13/neekothing.rar?raw)
